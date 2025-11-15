@@ -87,11 +87,5 @@ Driven Computer Science Engineer transitioning into software development with pr
 
 ---
 
-## 🙋 Self Introduction
-I am a determined and passionate Computer Science Engineer with a clear goal of becoming a skilled software developer. My interest in coding has been intentional from the start — it’s why I chose Computer Science as my field of study.  
-
-During my academic journey, I built a strong foundation in programming, algorithms, and system design, which sparked my interest in creating efficient, scalable solutions. After graduation, I worked in sales, achieving a **40% revenue increase in 9 months** by understanding customer needs and building strong relationships. This experience sharpened my communication, adaptability, and accountability — skills I now bring into tech teams.  
-
-Currently, I am focused on mastering **Python, JavaScript, and web development**, while exploring AI and automation projects. Inspired by Korean culture’s values of discipline, creativity, and collaboration, I aim to contribute to global projects and grow into a confident developer who adds real value.My strengths include adaptability, strong interpersonal communication, and creativity — often fueled by my love for music. I believe this unique blend of technical knowledge, business insight, and cultural appreciation makes me a well-rounded candidate ready to thrive in dynamic, multicultural environments.
 
 
