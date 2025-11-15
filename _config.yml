@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Bathu Sireesha]
 description: [I am a Computer Science Engineer transitioning into software development, with proven experience driving **40% business growth in 9 months** as an Acquisition Assistant Manager. My journey combines technical curiosity with business insight, giving me a unique perspective on building impactful solutions.Currently, I am focused on mastering **Python, JavaScript, and web development frameworks**, while exploring AI and automation projects. Inspired by Korean culture’s values of discipline, creativity, and collaboration, I aim to contribute to global, multicultural teams.My strengths include adaptability, strong communication, and creativity — often fueled by my love for music.I believe this blend of skills makes me a well-rounded candidate ready to thrive in dynamic environments.]
