@@ -72,6 +72,8 @@ technical documentation
 ## 📜 Certifications
 - AI for Software — K-Mooc
 - RESTAPIs — K-Mooc
+- AI Fluency: Framework and Foundation; Claude Platform 101; Building with the Claude API — Anthropic
+- Azure AI Essentials: Workloads & Machine Learning; Azure Essentials Professional Certificate — Microsoft & LinkedIn
 - Business Analyst — LearnTube Career-Ninja  
 - Java — LearnTube Career-Ninja  
 - API Testing — LearnTube.ai  
@@ -84,15 +86,31 @@ technical documentation
 - Telugu — Native  
 - English — Fluent  
 - Hindi — Fluent  
-- Korean — Beginner  
+- Korean — Intermediate  
 
 ---
 
 ## 🚀 Projects
 
-### AI-Powered Task API | Python, FastAPI, Claude API, GitHub Actions, Railway
-• Built a REST API backend with LLM integration (Claude/OpenAI) to auto-categorise tasks; deployed
-via GitHub Actions CI/CD pipeline with documented build-vs-buy infrastructure decisions.
+### Competitive Intelligence Crew | GitHub Sep 2026
+- Multi-agent AI system built with CrewAI that automates competitive intelligence research, replacing manual analyst work
+ with a two-agent research-and-synthesis pipeline.
+- AMarket Research Searcher agent gathers real-time company data via web search; an Analyst agent synthesizes findings
+into a structured report.
+- **Tech Stack:** Python, CrewAI, LLM Agents, Serper API.
+
+### Match Profile to Positions | GitHub Jul 2026
+- Three-agent AI recruiting tool built with CrewAI that matches candidate profiles to job openings using LLM-based rea
+soning instead of keyword scoring.
+- Specialized agents — Candidate Profile Analyst, Job Requirements Analyst, and Job Matching Expert — evaluate fit and
+generate a ranked recommendation.
+- **Tech Stack:** Python, CrewAI, LLM Agents.
+
+### Profile ↔ Position Matcher | Live | GitHub Jul 2026
+- Single-file, client-side web app that matches candidate profiles against open job positions using a weighted scoring algorithm
+— no backend or build step required.
+- Candidate × position match matrix with color-coded fit scores and a top-pick-per-position summary.
+- **Tech Stack:** HTML, CSS, JavaScript.
 
 ### Spatial Reusability Aware Routing
 - Developed optimized routing algorithm for multi-hop wireless networks, improving throughput and reducing transmission costs.  
