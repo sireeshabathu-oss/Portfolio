@@ -92,21 +92,21 @@ technical documentation
 
 ## 🚀 Projects
 
-### Competitive Intelligence Crew | GitHub Sep 2026
+### Competitive Intelligence Crew | [GitHub](https://github.com/sireeshabathu-oss/competitive-intelligence-crew)  | Sep 2026
 - Multi-agent AI system built with CrewAI that automates competitive intelligence research, replacing manual analyst work
  with a two-agent research-and-synthesis pipeline.
 - AMarket Research Searcher agent gathers real-time company data via web search; an Analyst agent synthesizes findings
 into a structured report.
 - **Tech Stack:** Python, CrewAI, LLM Agents, Serper API.
 
-### Match Profile to Positions | GitHub Jul 2026
+### Match Profile to Positions | [GitHub](https://github.com/sireeshabathu-oss/match-profile-to-positions) | Jul 2026
 - Three-agent AI recruiting tool built with CrewAI that matches candidate profiles to job openings using LLM-based rea
 soning instead of keyword scoring.
 - Specialized agents — Candidate Profile Analyst, Job Requirements Analyst, and Job Matching Expert — evaluate fit and
 generate a ranked recommendation.
 - **Tech Stack:** Python, CrewAI, LLM Agents.
 
-### Profile ↔ Position Matcher | Live | GitHub Jul 2026
+### Profile ↔ Position Matcher |  [GitHub](https://github.com/sireeshabathu-oss/Profile--position-matcher) | [Live](https://sireeshabathu-oss.github.io/Profile--position-matcher/) | Jul 2026
 - Single-file, client-side web app that matches candidate profiles against open job positions using a weighted scoring algorithm
 — no backend or build step required.
 - Candidate × position match matrix with color-coded fit scores and a top-pick-per-position summary.
