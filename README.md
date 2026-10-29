@@ -2,7 +2,7 @@
 
 **Location:** Hyderabad, India  
 **Email:** sireesha.bathu@gmail.com    
-**LinkedIn:** [linkedin](#)  
+**LinkedIn:** [linkedin](https://www.linkedin.com/in/bathu-sireesha-18681b180/)  
 
 ---
 
